@@ -16,7 +16,7 @@ This project addresses the need for smarter, low-maintenance greenhouse manageme
 ## Tech Stack
 - ESP8266
 - Soil moisture sensor
-- HC-SR04 ultrasonic distance sensor
+- Ultrasonic distance sensor
 - Water pump + relay module
 - LED + buzzer 
 - Node-RED dashboard
